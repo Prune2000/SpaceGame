@@ -1,5 +1,10 @@
+h1 {
+  font-family: Lobster;
+}
+
 #atom {
-    width:50px; position:absolute
+    width:50px; 
+    position:absolute;
   }
 
 #ufo {
