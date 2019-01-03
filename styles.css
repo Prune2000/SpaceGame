@@ -1,0 +1,22 @@
+#atom {
+    width:50px; position:absolute
+  }
+
+#ufo {
+    width:50px;
+    position:absolute;
+    top:0;
+    left:0;
+    transition: all 0.2s;
+  }
+
+#scoreTB {
+    position:absolute;
+    color:white;
+  }
+
+#timeTB {
+    position:absolute;
+    right:50px;
+    color:white;
+  }
